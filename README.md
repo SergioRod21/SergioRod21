@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Jr.+Frontend+Developer;Computer+Engineering+Student;Frontend+Dev+by+Day%2C+Database+Enthusiast+by+Night+" alt="Typing SVG" style="max-width: 100%; height: auto;" />
-  </a>
-</p>
-
 Hello! I'm Sergio, a student of Computer Engineering and a technology enthusiast since I can remember. I like to work in the area of ​​frontend web development and stay up to date with new technologies. In my free time I learn about the world of backend development, Big Data and Machine Learning.
 # About me
 
