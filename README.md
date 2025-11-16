@@ -1,7 +1,6 @@
 Hello! I'm Sergio, a student of Computer Engineering and a technology enthusiast since I can remember. I like to work in the area of ​​frontend web development and stay up to date with new technologies. In my free time I learn about the world of backend development, Big Data and Machine Learning.
 # About me
 
-- 🧑‍💻 **Rol**: Frontend Developer
 - 🎓 **Education**: Computer Engineering Student
 - 🕹️ **Hobbies**: I enjoy watching and playing soccer, playing video games, hiking, cycling, and playing chess.
 - 🚀 **Objectives**: Achieve a conversational level of English, Become a leading expert in web development, 	Contribute to open-source projects and collaborate with other developers
